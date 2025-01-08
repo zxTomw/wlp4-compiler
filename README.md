@@ -1,5 +1,7 @@
 # wlp4-compiler
 
+WLP4: a custom programming language similar to C, but with more restrictions to reduce the complexity of the compiler.
+
 The compiler works in the following steps:
 
 1. Scanning: The **scanner** scans and tokenizes the code
